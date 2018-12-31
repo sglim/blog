@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "첫 번째 글"
-date:   2018-08-29 23:02:03 +0900
+layout    : post
+title     : "첫 번째 글"
+date      : 2018-08-29 23:02:03 +0900
 categories: life
 ---
 비가 무척이나 많이 오는 밤이다.
