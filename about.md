@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Skelter Labs, Senior Software Engineer
+Momenti, Senior Software Engineer, Elite Trouble Shooter
