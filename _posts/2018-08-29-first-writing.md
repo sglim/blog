@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "첫 번째 글"
 date      : 2018-08-29 23:02:03 +0900
 categories: life

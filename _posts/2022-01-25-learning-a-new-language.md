@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "Learning a new language"
 date      : 2022-01-25 21:56:45 +0900
 categories: computer science

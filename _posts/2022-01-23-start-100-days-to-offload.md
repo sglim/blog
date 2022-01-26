@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "2022년, 1월의 다짐 (w/english translation)"
 date      : 2022-01-23 19:50:30 +0900
 categories: life

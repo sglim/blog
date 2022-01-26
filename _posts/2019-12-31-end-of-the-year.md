@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "2019년 마지막 날, 더 나은 내가 되기 위해"
 date      : 2019-12-31 22:15:02 +0900
 categories: life

@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "What do I need for my blog"
 date      : 2022-01-26 09:43:00 +0900
 categories: life

@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "스켈터랩스를 떠나며"
 date      : 2020-04-03 19:47:30 +0900
 categories: life

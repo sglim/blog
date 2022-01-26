@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "클라이언트 개발이란"
 date      : 2020-02-28 11:08:14 +0900
 categories: life

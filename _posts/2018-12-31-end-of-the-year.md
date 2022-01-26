@@ -1,5 +1,5 @@
 ---
-layout    : post
+layout    : posts
 title     : "2018년, 나의 삶은 낭비된다."
 date      : 2018-12-31 23:28:04 +0900
 categories: life
