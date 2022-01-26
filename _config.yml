@@ -30,7 +30,11 @@ plugins:
   - jekyll-include-cache
 
 # Google Analytics
-google_analytics: G-MF3KD3X566
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-MF3KD3X566"
+    anonymize_ip: false # default
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
