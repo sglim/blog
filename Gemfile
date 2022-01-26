@@ -11,7 +11,10 @@ source "https://rubygems.org"
 gem "jekyll", "3.9.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+# gem "minima", "~> 2.0"
+# Use master minima theme
+gem "minima", :git => "https://github.com/jekyll/minima.git", :branch => "master"
+
 
 gem "kramdown-parser-gfm"
 
