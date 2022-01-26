@@ -16,6 +16,7 @@ I'm using Jekyll now, and I'm an engineer. That means that I want to apply many 
 * Web service to write contents always (Codespace?)
 * Text history
 * Text diff tool (What is changed between histories?)
+* Resume in about page
 
 I'll follow up those things later but I already applied Google analytics with easiest way.
 The Jekyll theme that I'm using is Minima, and it already supports Google analytics by just adding GA account id in `_config.yml`.
