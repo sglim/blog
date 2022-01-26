@@ -1,11 +1,9 @@
 ---
 layout    : posts
-title     : "What do I need for my blog"
+title     : "What do I need for my blog?"
 date      : 2022-01-26 09:43:00 +0900
 categories: life
 ---
-
-# What do I need for my blog?
 
 I'm using Jekyll now, and I'm an engineer. That means that I want to apply many things into my blog.
 
