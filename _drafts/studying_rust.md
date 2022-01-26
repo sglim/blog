@@ -2,6 +2,8 @@
 
 Learning rust
 
+Learned Vec, vec!, array, list, slice, iter
+
 Sublist problem: https://exercism.org/tracks/rust/exercises/sublist
 
 My solution: https://exercism.org/tracks/rust/exercises/sublist/iterations
