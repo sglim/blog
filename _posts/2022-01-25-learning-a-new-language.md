@@ -2,7 +2,7 @@
 layout    : post
 title     : "Learning a new language"
 date      : 2022-01-25 21:56:45 +0900
-categories: Computer Science
+categories: computer science
 ---
 
 The latest programming language that I've learned was a Dart to use Flutter in Dec, 2018 which is the official Flutter 1.0 release date.
