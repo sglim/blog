@@ -10,12 +10,8 @@
 
 ### [Ruby](https://ruby-lang.org)
 
-Install Ruby 2.5.0
+Requirment: Ruby 2.6.3
 
-### To insert Date in blog contents in VS Code?
+# Jekyll-post
 
-You need 'Insert Date String' plugin
-
-Type following command:
-
-    Command + Shift + I
+I'm using jekyll-post plugin to write a new content.
